@@ -1,0 +1,165 @@
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\bin\Debug\Heladeria.exe.config
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\bin\Debug\Heladeria.exe
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\bin\Debug\Heladeria.pdb
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\obj\Debug\Heladeria.csproj.AssemblyReference.cache
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\obj\Debug\Heladeria.csproj.SuggestedBindingRedirects.cache
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ABM_Usuario.resources
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\obj\Debug\Heladeria.FronEnd.frm_AltaUsuarios.resources
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\obj\Debug\Heladeria.frm_Escritorio.resources
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\obj\Debug\Heladeria.FronEnd.frm_Login.resources
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\obj\Debug\Heladeria.Properties.Resources.resources
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\obj\Debug\Heladeria.csproj.GenerateResource.cache
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\obj\Debug\Heladeria.csproj.CoreCompileInputs.cache
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\obj\Debug\Heladeria.exe
+C:\Users\conra\OneDrive\Escritorio\PAV1\Heladeria\obj\Debug\Heladeria.pdb
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\bin\Debug\Heladeria.exe.config
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\bin\Debug\Heladeria.exe
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\bin\Debug\Heladeria.pdb
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.csproj.AssemblyReference.cache
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ABM_Usuario.resources
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_AltaUsuarios.resources
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.frm_Escritorio.resources
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_Login.resources
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.Properties.Resources.resources
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.csproj.GenerateResource.cache
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.csproj.CoreCompileInputs.cache
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.exe
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.pdb
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ModificacionUsuarios.resources
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_MostrarUsuarios.resources
+C:\Users\Matías\Desktop\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_BorrarUsuarios.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\bin\Debug\Heladeria.exe.config
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\bin\Debug\Heladeria.exe
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\bin\Debug\Heladeria.pdb
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.csproj.AssemblyReference.cache
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ABM_Usuario.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.frm_Escritorio.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_Login.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_AltaUsuarios.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_BorrarUsuarios.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ModificacionUsuarios.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_MostrarUsuarios.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.Properties.Resources.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.csproj.GenerateResource.cache
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.csproj.CoreCompileInputs.cache
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.exe
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.pdb
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.Helado.frm_ABM_Helado.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.Helado.frm_AltaHelados.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.Helado.frm_BorrarHelados.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ModificacionHelado.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ABM_Proveedor.resources
+C:\Users\vicul\Downloads\Heladeria-main\Heladeria-main\Heladeria\obj\Debug\Heladeria.FronEnd.frm_Modificacion_Proveedor.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\bin\Debug\Heladeria.exe.config
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\bin\Debug\Heladeria.exe
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\bin\Debug\Heladeria.pdb
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.AssemblyReference.cache
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.Helado.frm_ABM_Helado.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.Helado.frm_AltaHelados.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.Helado.frm_BorrarHelados.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ModificacionHelado.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ABM_Proveedor.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_Modificacion_Proveedor.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ABM_Usuario.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.frm_Escritorio.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_Login.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_AltaUsuarios.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_BorrarUsuarios.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ModificacionUsuarios.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_MostrarUsuarios.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.Properties.Resources.resources
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.GenerateResource.cache
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.CoreCompileInputs.cache
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.exe
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.pdb
+C:\Users\Victoria Rosales\Downloads\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.Helado.frm_AltaProveedores.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Heladeria.exe.config
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Heladeria.exe
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Heladeria.pdb
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.AssemblyReference.cache
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.Factura.frm_ABM_Factura.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.Helado.frm_ABM_Helado.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.Helado.frm_AltaHelados.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.Helado.frm_BorrarHelados.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ModificacionHelado.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ABM_Proveedor.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.Helado.frm_AltaProveedores.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.Proveedores.frm_BajaProveedores.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_Modificacion_Proveedor.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ABM_Usuario.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.frm_Escritorio.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_Login.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_AltaUsuarios.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_BorrarUsuarios.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_ModificacionUsuarios.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.FronEnd.frm_MostrarUsuarios.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.Properties.Resources.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.GenerateResource.cache
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.CoreCompileInputs.cache
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.exe
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.pdb
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\RdlCompile.cache
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\RdlCompile.compiled
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\EnvDTE.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\stdole.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\Microsoft.MSXML.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.csproj.CopyComplete
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.Reporte.ReporteVentas.resources
+C:\Users\vicul\Downloads\Heladeria\Heladeria\Heladeria\obj\Debug\Heladeria.ReporteEstadistica.resources
